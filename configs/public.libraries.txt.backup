@@ -1,0 +1,23 @@
+eden_rt_stub.so
+libBestComposition.polarr.so
+libDLInterface.camera.samsung.so
+libImageTagger.camera.samsung.so
+libLocalTM_wrapper.camera.samsung.so
+libOpenCL.so
+libSceneDetector_v1.camera.samsung.so
+libeden_wrapper.so
+libget_icd.so
+libhumantracking.arcsoft.so
+libhumantracking_util.camera.samsung.so
+libpa.so
+libsecGestureAttribute.camera.samsung.so
+libsecure_storage_jni.so
+libsmart_cropping.camera.samsung.so
+libsnap_caffe.so
+libsnap_caffe_wrapper.so
+libsnap_compute.so
+libsnap_compute_wrapper.so
+libsnap_vndk.so
+libswldc_capture_core.camera.samsung.so
+libteecl.so
+libtensorflow_inference_native.so 64

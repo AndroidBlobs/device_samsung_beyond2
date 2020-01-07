@@ -1,0 +1,7 @@
+-priv-app/HotwordEnrollmentOKGoogleCORTEXM4/HotwordEnrollmentOKGoogleCORTEXM4.apk
+-priv-app/HotwordEnrollmentXGoogleCORTEXM4/HotwordEnrollmentXGoogleCORTEXM4.apk
+etc/firmware/cs40l20.bin
+etc/firmware/cs40l20.wmfw
+etc/firmware/cs40l25a.wmfw
+etc/nfcee_access.xml
+lib64/libaptX_encoder.so
